@@ -5,9 +5,9 @@ A django app that takes information from the BMRS API, stories it in a SQlite3 d
 
 ![Page showing analysis of all time data](/assets/images/allTimePage.png)
 
-![Page showing analysis of past year data](/assets/images/pastWeekPage.png)
+![Page showing analysis of past year data](/assets/images/pastYearPage.png)
 
-![Page showing analysis of past week data](/assets/images/pastYearPage.png)
+![Page showing analysis of past week data](/assets/images/pastWeekPage.png)
 
 ![Page showing analysis of today's data](/assets/images/todayPage.png)
 
