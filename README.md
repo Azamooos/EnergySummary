@@ -43,5 +43,6 @@ Frontend uses boostrap and chart.js
 - Edit HMTL so site works on mobile
 - Add section to the dashboard for analysis of imports/exports
 - Use celery so database is updated regularly based on time not every refresh
+- Make a version that uses postgreSQL so it's more appropriate for publishing
 
 
