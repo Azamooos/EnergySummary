@@ -22,9 +22,10 @@ Frontend uses boostrap and chart.js
 2. Clone repo
     - `git clone https://github.com/https://github.com/Azamooos/EnergySummary.git`
 
-3. Create a virtual environment and activate
+3. Create a virtual environment, activate, and navigate into the correct folder (if required)
     - `python3 -m venv venv`
-    - `source venv/bin/activate`
+    - `venv/bin/activate`
+    - `cd EnergySummary`
 
 4. Install required packages by running:
     - `pip install -r requirements.txt`
@@ -34,3 +35,5 @@ Frontend uses boostrap and chart.js
 
 6. Open the server by running:
     - `python manage.py runserver`
+
+7. The all time summary page can be found on 'http:127.0.0.1:8000/UKSummary/TotalSummary'.
