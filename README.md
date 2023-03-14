@@ -36,7 +36,7 @@ Frontend uses boostrap and chart.js
 6. Open the server by running:
     - `python manage.py runserver`
 
-7. The all time summary page can be found on 'http:127.0.0.1:8000/UKSummary/TotalSummary'.
+7. The all time summary page can be found on 'http://127.0.0.1:8000/UKSummary/TotalSummary'.
 
 ## Planned future developments
 - Include price data
