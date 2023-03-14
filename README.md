@@ -39,9 +39,11 @@ Frontend uses boostrap and chart.js
 7. The all time summary page can be found on 'http:127.0.0.1:8000/UKSummary/TotalSummary'.
 
 ## Planned future developments
+- Include price data
 - Include solar informatoin from [Sheffield Solar](https://www.solar.sheffield.ac.uk/pvlive/)
 - Edit HMTL so site works on mobile
 - Add section to the dashboard for analysis of imports/exports
 - Use celery so database is updated regularly based on time not every refresh
+- Make a version that uses postgreSQL so it's more appropriate for publishing
 
 
